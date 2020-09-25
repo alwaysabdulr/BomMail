@@ -1,7 +1,22 @@
 # BomMail
-use this to send emails with different body text !!
+support the creator!!
+instagram  https://www.instagram.com/alwaysabdulr/
 
-how to install
+use this to send emails with different body text and different subject name!!
+This is a powerful tool that helps you to clog up email account....
+copying of this code is strictly probibited...
+Enjoy within legal limits
+
+
+how to install and use:
 
 git clone https://github.com/alwaysabdulr/BomMail.git
+cd BomMail 
+sudo chmod +x BomMaiL.py
+sudo python BomMaiL.py
+
+
+
+
+
 
